@@ -20019,6 +20019,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1576141638053850138, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576141638053850138, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576141638459782514, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_Name
+      value: MainMenuText
+      objectReference: {fileID: 0}
     - target: {fileID: 1576141638654352073, guid: c498f5fec1aef764088af83362d28f7e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20143,6 +20158,41 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StateMenuUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576141638789022944, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_Name
+      value: ReplayText
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576141638789326867, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576141639355839078, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576141639355839078, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576141639715426519, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_Name
+      value: GameOverText
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144479772390277443, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7138352701620584523, guid: c498f5fec1aef764088af83362d28f7e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c498f5fec1aef764088af83362d28f7e, type: 3}
